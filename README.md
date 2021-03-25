@@ -1,4 +1,4 @@
-# AIFFEL 대전 (2020.12.30 - 현재)
+# AIFFEL 대전 (2020.12.28 - 현재)
 ## Exploration project
 ### 1.[인공지능과 가위바위보 하기](https://github.com/guide333/AD/blob/master/Exploration/%5BE-01%5D1st_project_rock_scissor_paper_classifier.ipynb)
 MNIST, Classification, LeNet
@@ -34,8 +34,7 @@ Transformer
 Super Resolution, SRGAN, Bicubic Interpolation
 ### 17. [다음에 볼 영화 예측하기](https://github.com/guide333/AD/blob/master/Exploration/%5BE-17%5Dmovielens_SBR.ipynb)
 추천 시스템 - Session-based Recommendation
-
-### 17. [다양한 OCR모델 비교하기](https://github.com/guide333/AD/blob/master/Exploration/%5BE-18%5DOCR_apis.ipynb)
+### 18. [다양한 OCR모델 비교하기](https://github.com/guide333/AD/blob/master/Exploration/%5BE-18%5DOCR_apis.ipynb)
 OCR - Google OCR API, keras-ocr, Tesseract
-
-
+### 19. [인간보다 퀴즈를 잘푸는 인공지](https://github.com/guide333/AD/blob/master/Exploration/%5BE-19%5DBERT.ipynb)
+BERT, KoQuAD
