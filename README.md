@@ -38,3 +38,5 @@ Super Resolution, SRGAN, Bicubic Interpolation
 OCR - Google OCR API, keras-ocr, Tesseract
 ### 19. [인간보다 퀴즈를 잘푸는 인공지](https://github.com/guide333/AD/blob/master/Exploration/%5BE-19%5DBERT.ipynb)
 BERT, KoQuAD
+### 20. [난 스케치를 할 테니 너는 채색을 하거라](https://github.com/guide333/AD/blob/master/Exploration/%5BE-20%5Dpix2pix.ipynb)
+pix2pix, U-Net
