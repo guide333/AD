@@ -34,10 +34,10 @@ Transformer
 Super Resolution, SRGAN, Bicubic Interpolation
 ### 17. [다음에 볼 영화 예측하기](https://github.com/guide333/AD/blob/master/Exploration/%5BE-17%5Dmovielens_SBR.ipynb)
 추천 시스템 - Session-based Recommendation
-
 ### 18. [다양한 OCR모델 비교하기](https://github.com/guide333/AD/blob/master/Exploration/%5BE-18%5DOCR_apis.ipynb)
 OCR - Google OCR API, keras-ocr, Tesseract
-
-### 18. [인간보다 퀴즈를 잘푸는 인공지](https://github.com/guide333/AD/blob/master/Exploration/%5BE-19%5DBERT.ipynb)
+### 19. [인간보다 퀴즈를 잘푸는 인공지](https://github.com/guide333/AD/blob/master/Exploration/%5BE-19%5DBERT.ipynb)
 BERT, KoQuAD
+### 20. [난 스케치를 할 테니 너는 채색을 하거라](https://github.com/guide333/AD/blob/master/Exploration/%5BE-20%5Dpix2pix.ipynb)
+pix2pix, U-Net
 
